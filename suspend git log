@@ -1,0 +1,136 @@
+[33mcommit 5c739006a83fa2382ce740f84038c4efca266a08[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32muser1[m[33m, [m[1;31morigin/user1[m[33m)[m
+Merge: 7540ba2 5aa0fab
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:49:13 2025 +0530
+
+    Merge branch 'user2' into user1
+
+[33mcommit 5aa0fab7062713069b9eaf9e39b5e1f43d7bdb3c[m[33m ([m[1;31morigin/user2[m[33m, [m[1;32muser2[m[33m)[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:48:24 2025 +0530
+
+    File6 created
+
+[33mcommit 7540ba20f41b5f282573ee982635df8bc39f1868[m
+Merge: 3b6f0d3 17db32a
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:22:09 2025 +0530
+
+    Merge branch 'user2' into user1
+
+[33mcommit 17db32ab5004646df08309852785cacef4d79845[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:19:54 2025 +0530
+
+    File 5 Completed
+
+[33mcommit ef23b660a2f969bde5cdff21cdc54ad571d1ad8a[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:18:32 2025 +0530
+
+    file 5 editted
+
+[33mcommit 8f712ceeb54219e827cf8c094ff4cec67d8e705f[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:16:03 2025 +0530
+
+    File5 created
+
+[33mcommit d34b5c47302f9d27b17fc8d69449f9f26b21541e[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:15:15 2025 +0530
+
+    Created a new file called file5
+
+[33mcommit 3b6f0d347d2851b85cb7ade77fb1f7ba77f5134f[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:02:36 2025 +0530
+
+    File 4 Editted & Completed
+
+[33mcommit b193d009aea1aaae6c6ddf57765d08bed7ec0aee[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:01:38 2025 +0530
+
+    Update file4.txt
+
+[33mcommit a880eebb7489a123eb526bf6700c963c6b916c5a[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 06:01:04 2025 +0530
+
+    Created a new file called File4 in user1
+
+[33mcommit 463a33787c290a77e82e812b6907de8b84090e90[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:59:58 2025 +0530
+
+    Created a new file called File4 in user1
+
+[33mcommit 69c16f91df61258b321988fafb5b4e60020cf6e9[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 8cb4c37 602621c
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:58:24 2025 +0530
+
+    Merge pull request #1 from EldhoseThankachan/user1
+    
+    Merged user1 to main
+
+[33mcommit 602621c6a646f212111eee55e3225194a151f2b3[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:55:41 2025 +0530
+
+    File 3 Editted & Completed
+
+[33mcommit 2f6254bd027a9f1bff4f8d01cc6f77a849bdd363[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:52:43 2025 +0530
+
+    file 3 Created and Pushed to branch called user2
+
+[33mcommit 8cb4c3700e1ec5e5dca13d17f7dfe3bb49d74e59[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:45:48 2025 +0530
+
+    file 2 Editted & Completed at GitHub
+
+[33mcommit 0c794a23dcb6d73a15a77db7aefaa949598a2472[m
+Author: Eldhose Thankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:44:35 2025 +0530
+
+    file 2 editted at gitHub
+
+[33mcommit eeef24ca9d336f8dfebb962f76bafeff40dc9355[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:43:49 2025 +0530
+
+    File 2 Created And Added
+
+[33mcommit 7ef29f483d1b07e656661bad9ca50fbd4a49ab5b[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:42:21 2025 +0530
+
+    File 2 Deleted
+
+[33mcommit d36e5b71a6af04e7af87fbe07b64053e7b0b98ff[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:41:21 2025 +0530
+
+    File 2 Created
+
+[33mcommit 6b50f3454413fa9647fa51347bc0f8ca3bc9b171[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:40:06 2025 +0530
+
+    File 1 completed
+
+[33mcommit 4ae4b6423b54cd1873a79e28d9fbb2e938005359[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:39:13 2025 +0530
+
+    File 1 editted
+
+[33mcommit fd0184793ba0a0072b2ba1e786623c1b3089ca14[m
+Author: EldhoseThankachan <eldhosethankachan27@gmail.com>
+Date:   Thu Dec 18 05:25:09 2025 +0530
+
+    Created New Project called tutorial
